@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Project40' target in the 'Project40' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

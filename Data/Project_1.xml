@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+<item>
+<ProjectID></ProjectID>
+<ProjectName></ProjectName>
+<ProjectDesc></ProjectDesc>
+<Tasks>
+<Task>
+<TaskID></TaskID>
+<TaskOrder></TaskOrder>
+<TaskName></TaskName>
+<TaskColor></TaskColor>
+<TaskDuration></TaskDuration>
+</Task>
+</Tasks>
+<Milestones>
+<Milestone>
+<MilestoneName></MilestoneName>
+<MilestoneNumber></MilestoneNumber>
+</Milestone>
+</Milestones>
+</item>
+
+
+<item>
+<ProjectID>P1</ProjectID>
+<ProjectName>P1 Name</ProjectName>
+<ProjectDesc>P1 Description</ProjectDesc>
+<Tasks>
+<Task>
+<TaskID>A457</TaskID>
+<TaskOrder>1</TaskOrder>
+<TaskName>Shave Cat</TaskName>
+<TaskColor>Red</TaskColor>
+<TaskDuration>120</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>A487</TaskID>
+<TaskOrder>2</TaskOrder>
+<TaskName>Apply Band Aids</TaskName>
+<TaskColor>Grey</TaskColor>
+<TaskDuration>15</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>C526</TaskID>
+<TaskOrder>3</TaskOrder>
+<TaskName>Sip Scotch</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>22</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>C539</TaskID>
+<TaskOrder>4</TaskOrder>
+<TaskName>Open another bottle</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>5</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>C639</TaskID>
+<TaskOrder>5</TaskOrder>
+<TaskName>Go to store</TaskName>
+<TaskColor>Yellow</TaskColor>
+<TaskDuration>230</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>C649</TaskID>
+<TaskOrder>6</TaskOrder>
+<TaskName>Get Distracted</TaskName>
+<TaskColor>Magenta</TaskColor>
+<TaskDuration>150</TaskDuration>
+</Task>
+</Tasks>
+
+<Milestones>
+<Milestone>
+<MilestoneName>Bent Wire</MilestoneName>
+<MilestoneNumber>4</MilestoneNumber>
+</Milestone>
+<Milestone>
+<MilestoneName>Hair balls</MilestoneName>
+<MilestoneNumber>2</MilestoneNumber>
+</Milestone>
+</Milestones>
+
+
+
+</item>
+
+<item>
+<ProjectID>Z250</ProjectID>
+<ProjectName>Breakfast</ProjectName>
+<ProjectDesc>Cook Breakfast</ProjectDesc>
+<Tasks>
+<Task>
+<TaskID>Z462</TaskID>
+<TaskOrder>1</TaskOrder>
+<TaskName>Build kitchen</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>362</TaskDuration>
+</Task>
+<Task>
+<TaskID>Z462</TaskID>
+<TaskOrder>3</TaskOrder>
+<TaskName>Build kitchen</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>362</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>K262</TaskID>
+<TaskOrder>2</TaskOrder>
+<TaskName>Buy Appliances</TaskName>
+<TaskColor>Yellow</TaskColor>
+<TaskDuration>400</TaskDuration>
+</Task>
+
+
+<Task>
+<TaskID>F455</TaskID>
+<TaskOrder>4</TaskOrder>
+<TaskName>Buy Meat</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>345</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>O439</TaskID>
+<TaskOrder>5</TaskOrder>
+<TaskName>Find Veggies</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>300</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>E419</TaskID>
+<TaskOrder>6</TaskOrder>
+<TaskName>Godfathers</TaskName>
+<TaskColor>Red</TaskColor>
+<TaskDuration>100</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>W210</TaskID>
+<TaskOrder>7</TaskOrder>
+<TaskName>Antacid Shop</TaskName>
+<TaskColor>White</TaskColor>
+<TaskDuration>600</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>Q210</TaskID>
+<TaskOrder>8</TaskOrder>
+<TaskName>Soap Dish</TaskName>
+<TaskColor>Yellow</TaskColor>
+<TaskDuration>346</TaskDuration>
+</Task>
+
+
+<Task>
+<TaskID>Q410</TaskID>
+<TaskOrder>9</TaskOrder>
+<TaskName>Pound Veggies</TaskName>
+<TaskColor>Red</TaskColor>
+<TaskDuration>35</TaskDuration>
+</Task>
+
+
+<Task>
+<TaskID>Q413</TaskID>
+<TaskOrder>10</TaskOrder>
+<TaskName>Fill Box</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>345</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>Q460</TaskID>
+<TaskOrder>11</TaskOrder>
+<TaskName>Fill Box</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>345</TaskDuration>
+</Task>
+
+</Tasks>
+
+<Milestones>
+<Milestone>
+<MilestoneName>White out</MilestoneName>
+<MilestoneNumber>4</MilestoneNumber>
+</Milestone>
+<Milestone>
+<MilestoneName>Reminder on Calendar</MilestoneName>
+<MilestoneNumber>7</MilestoneNumber>
+</Milestone>
+</Milestones>
+</item>
+
+<item>
+<ProjectID>T100</ProjectID>
+<ProjectName>Camping</ProjectName>
+<ProjectDesc>Camping Trip stuff</ProjectDesc>
+<Tasks>
+<Task>
+<TaskID>A468</TaskID>
+<TaskOrder>1</TaskOrder>
+<TaskName>Close Window</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>362</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>K444</TaskID>
+<TaskOrder>2</TaskOrder>
+<TaskName>Print Master</TaskName>
+<TaskColor>Yellow</TaskColor>
+<TaskDuration>400</TaskDuration>
+</Task>
+
+
+<Task>
+<TaskID>F609</TaskID>
+<TaskOrder>3</TaskOrder>
+<TaskName>Burn garden</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>362</TaskDuration>
+</Task>
+
+
+
+<Task>
+<TaskID>F478</TaskID>
+<TaskOrder>4</TaskOrder>
+<TaskName>Buy Meat</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>345</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>O400</TaskID>
+<TaskOrder>5</TaskOrder>
+<TaskName>Grab bus</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>300</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>E477</TaskID>
+<TaskOrder>6</TaskOrder>
+<TaskName>Sink ship</TaskName>
+<TaskColor>Red</TaskColor>
+<TaskDuration>100</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>W211</TaskID>
+<TaskOrder>7</TaskOrder>
+<TaskName>Shred Paper</TaskName>
+<TaskColor>White</TaskColor>
+<TaskDuration>600</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>Q212</TaskID>
+<TaskOrder>8</TaskOrder>
+<TaskName>Open Door</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>346</TaskDuration>
+</Task>
+
+
+<Task>
+<TaskID>Q418</TaskID>
+<TaskOrder>9</TaskOrder>
+<TaskName>Wash carpet</TaskName>
+<TaskColor>Red</TaskColor>
+<TaskDuration>35</TaskDuration>
+</Task>
+
+
+<Task>
+<TaskID>Q431</TaskID>
+<TaskOrder>10</TaskOrder>
+<TaskName>Light Candle</TaskName>
+<TaskColor>Yellow</TaskColor>
+<TaskDuration>345</TaskDuration>
+</Task>
+
+<Task>
+<TaskID>Q465</TaskID>
+<TaskOrder>11</TaskOrder>
+<TaskName>Unwrap Presents</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>345</TaskDuration>
+</Task>
+
+</Tasks>
+
+<Milestones>
+<Milestone>
+<MilestoneName>Build Ship</MilestoneName>
+<MilestoneNumber>6</MilestoneNumber>
+</Milestone>
+<Milestone>
+<MilestoneName>Celebration</MilestoneName>
+<MilestoneNumber>8</MilestoneNumber>
+</Milestone>
+</Milestones>
+
+</item>
+
+<item>
+<ProjectID>PZ22</ProjectID>
+<ProjectName>Paint a Zebra</ProjectName>
+<ProjectDesc>Paint a Zebra and ride it</ProjectDesc>
+<Tasks>
+<Task>
+<TaskID>J322</TaskID>
+<TaskOrder>1</TaskOrder>
+<TaskName>Catch a Zebra</TaskName>
+<TaskColor>White</TaskColor>
+<TaskDuration>160</TaskDuration>
+</Task>
+<Task>
+<TaskID>J323</TaskID>
+<TaskOrder>2</TaskOrder>
+<TaskName>Put it in a pen</TaskName>
+<TaskColor>Grey</TaskColor>
+<TaskDuration>100</TaskDuration>
+</Task>
+<Task>
+<TaskID>J343</TaskID>
+<TaskOrder>3</TaskOrder>
+<TaskName>Close Pen</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>101</TaskDuration>
+</Task>
+<Task>
+<TaskID>J363</TaskID>
+<TaskOrder>4</TaskOrder>
+<TaskName>Don't get bit</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>125</TaskDuration>
+</Task>
+<Task>
+<TaskID>J365</TaskID>
+<TaskOrder>5</TaskOrder>
+<TaskName>Find Food</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>125</TaskDuration>
+</Task>
+<Task>
+<TaskID>J366</TaskID>
+<TaskOrder>5</TaskOrder>
+<TaskName>Get green paint</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>140</TaskDuration>
+</Task>
+<Task>
+<TaskID>J367</TaskID>
+<TaskOrder>6</TaskOrder>
+<TaskName>Pay for paint</TaskName>
+<TaskColor>Blue</TaskColor>
+<TaskDuration>140</TaskDuration>
+</Task>
+<Task>
+<TaskID>J369</TaskID>
+<TaskOrder>7</TaskOrder>
+<TaskName>Stir paint</TaskName>
+<TaskColor>Red</TaskColor>
+<TaskDuration>125</TaskDuration>
+</Task>
+<Task>
+<TaskID>J70</TaskID>
+<TaskOrder>8</TaskOrder>
+<TaskName>Spill Paint</TaskName>
+<TaskColor>Yellow</TaskColor>
+<TaskDuration>125</TaskDuration>
+</Task>
+<Task>
+<TaskID>J372</TaskID>
+<TaskOrder>9</TaskOrder>
+<TaskName>Clean up paint</TaskName>
+<TaskColor>Green</TaskColor>
+<TaskDuration>170</TaskDuration>
+</Task>
+<Task>
+<TaskID>J375</TaskID>
+<TaskOrder>10</TaskOrder>
+<TaskName>Splash paint on Zebra</TaskName>
+<TaskColor>White</TaskColor>
+<TaskDuration>170</TaskDuration>
+</Task>
+</Tasks>
+<Milestones>
+<Milestone>
+<MilestoneName>In Process</MilestoneName>
+<MilestoneNumber>4</MilestoneNumber>
+</Milestone>
+<Milestone>
+<MilestoneName>Almost Done</MilestoneName>
+<MilestoneNumber>8</MilestoneNumber>
+</Milestone>
+</Milestones>
+</item>
+
+
+</items>
+
